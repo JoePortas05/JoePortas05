@@ -1,9 +1,9 @@
 # 👋 Hi, I'm Joseph Portas!
 
 ### 💻 **Northeastern University Computer Science Student, Teaching Assistant and Tutor**
-- 🎓 Expected Graduation: **December 2025**
+- 🎓 Expected Graduation: **May 2026** (Accelerated from May 2027 with potential for further acceleration to December 2025)
 - 🚀 I'm passionate about **designing large-scale software and using creativity** to utilize new technologies.  
-- 🌱 Outside of academics, I love rock climbing, learning languages and playing cello! 
+- 🌱 Outside of software development, I am currently learning Turkish, and I love rock climbing, cooking and playing cello! 
 
 ---
 
@@ -14,8 +14,13 @@
 
 ---
 
-## 📂 **Projects**
-Please note, code for all projects on my LinkedIn and resume not found here are **available upon request** due to school restrictions. Please feel free to reach out using the connections found below!
+## 📂 **Projects**  
+Many of my academic projects are housed in **organization repositories** as part of my coursework, so they are not directly accessible on my GitHub.  
+- **Code for all projects listed on my resume and LinkedIn is available upon request**.  
+- Some repositories here may not have a detailed commit history as they are **mirrored versions of original repos**.  
+
+If you'd like access to any specific projects or have questions, feel free to reach out via the links below!  
+
 
 ### 📈 [Stock Simulation](#) *(May 2024 – July 2024)*  
 - Implemented a **Java program** to analyze stock data over time through API queries, allowing the user to create and analyze portfolios with specific events, timeframes and automatic rebalancing
