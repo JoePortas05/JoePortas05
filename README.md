@@ -15,6 +15,7 @@
 ---
 
 ## 📂 **Projects**
+Please note, code for all projects on my LinkedIn and resume not found here are **available upon request** due to school restrictions. Please feel free to reach out using the connections found below!
 
 ### 📈 [Stock Simulation](#) *(May 2024 – July 2024)*  
 - Implemented a **Java program** to analyze stock data over time through API queries, allowing the user to create and analyze portfolios with specific events, timeframes and automatic rebalancing
