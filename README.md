@@ -1,9 +1,9 @@
 # 👋 Hi, I'm Joseph Portas!
 
 ### 💻 **Northeastern University Computer Science Student, Teaching Assistant and Tutor**
-- 🎓 Expected Graduation: **May 2026** (Accelerated from May 2027 with potential for further acceleration to December 2025)
-- 🚀 I'm passionate about **designing large-scale software and using creativity** to utilize new technologies.  
-- 🌱 Outside of software development, I am currently learning Turkish, and I love rock climbing, cooking and playing cello! 
+- 🎓 Expected Graduation: **May 2026** (Accelerated from May 2027 with **potential for further acceleration to December 2025**)
+- 🚀 I'm passionate about **designing large-scale software and using creativity** solve real-world problems with unique solutions.  
+- 🌱 Outside of school, I am currently learning Turkish, and I love rock climbing, cooking and playing cello! 
 
 ---
 
@@ -23,13 +23,22 @@ If you'd like access to any specific projects or have questions, feel free to re
 
 
 ### 📈 [Stock Simulation](#) *(May 2024 – July 2024)*  
-- Implemented a **Java program** to analyze stock data over time through API queries, allowing the user to create and analyze portfolios with specific events, timeframes and automatic rebalancing
-- Utilized **object-oriented design principles and test-driven development** to build **multiple MVC patterns for readable and scalable code** open to extension and user variety
- 
+- Implemented a Java program to analyze stock data over time through API queries, allowing the user to create and analyze portfolios with specific events, timeframes and automatic rebalancing
+- Utilized object-oriented design principles and test-driven development to build multiple MVC patterns for readable and scalable code open to extension and user variety
+- Pair programmed using GitHub while discussing design ideas, implementing logic and testing behavior 
+
+
+### 📂 [File System](#) *(November 2024 - December 2024)*
+- Created a FUSE-based file system in C capable of creating, deleting, reading, writing and renaming both files and directories
+- Designed a scalable codebase by abstracting the behavior of inodes and blocks, utilizing these structures to quickly find files efficiently use disk-space
+- Implemented a large-scale system able to handle files up to 500 KB and accept input through the command line or system interfaces
+
+
 
 ### 🌐 [Portfolio Website](#) *(September 2023 – December 2023)*   
-- Developed a portfolio website for a fellow student using self-taught skills in **HTML, CSS, and JavaScript**
-- Built a responsive website with multiple web pages, embedded pictures and videos, and animated feature
+- Developed a portfolio website for a fellow student using self-taught skills in HTML, CSS, and JavaScript
+- Built a responsive website with multiple web pages, embedded pictures and videos, and animated features
+- Managed schedule independently for timely completion while maintaining full control over design process
 
 
 ---
