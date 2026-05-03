@@ -2,8 +2,6 @@
 
 I’m a CS student at Northeastern University graduating on an accelerated path, with my B.S. in Computer Science completed in December 2025 and my M.S. in Computer Science expected in August 2026.
 I’ve built software across full-stack web, cloud deployment, systems programming, and developer tooling, including a fully deployed final exam scheduling web app for Northeastern University’s Registrar and Python applications to improve hardware testing processes at BAE Systems. I love combining creativity and technical skill to solve challenging problems that have real impact on real people.
-
-I also love tutoring! I’ve worked with students on everything from Java and discrete math to SAT prep, and I enjoy breaking down tough concepts into something that actually feels intuitive. Outside of coding, I’m usually studying Turkish, climbing, or playing the cello. I’m open to software engineering opportunities and excited to keep building innovative and useful, well-designed systems.
 ---
 
 ## 🚀 **Technical Skills**  
