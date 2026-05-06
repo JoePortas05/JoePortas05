@@ -18,25 +18,31 @@ I love combining creativity and technical skill to solve challenging problems wi
 ## 📂 Projects
 
 Some projects are housed in organization repositories or private academic repositories. Code is available upon request when permitted.
+Here are some of my projects!
 
 ### 📅 [Final Exam Scheduling System](https://github.com/KhourySpecialProjects/ExamEngine) *(Sep 2025 – Jan 2026)*
 
-- Built a full-stack final exam scheduling platform for Northeastern University using Next.js, TypeScript, FastAPI, PostgreSQL, and SQLAlchemy to automate exam timetable generation for 20,000+ students, 1,500+ course sections, 270 classrooms, and 25 time slots.
-- Implemented a DSATUR graph-coloring scheduling engine to generate conflict-free exam schedules in minutes, enforcing real-world registrar constraints including student enrollment conflicts, room capacity limits, back-to-back exam prevention, and maximum exams per day.
-- Developed production-ready deployment workflows with Docker, GitHub Actions, AWS ECS Fargate, RDS, and S3, supporting reproducible local development, CI/CD, and scalable cloud deployment.
+- Built a full-stack final exam scheduling platform for Northeastern University using Next.js, TypeScript, FastAPI, PostgreSQL, and SQLAlchemy to automate exam timetable generation for 20,000+ students, 1,500+ course sections, 270 classrooms, and 25 time slots
+- Implemented a DSATUR graph-coloring scheduling engine to generate conflict-free exam schedules in minutes, enforcing real-world registrar constraints including student enrollment conflicts, room capacity limits, back-to-back exam prevention, and maximum exams per day
+- Developed production-ready deployment workflows with Docker, GitHub Actions, AWS ECS Fargate, RDS, and S3, supporting reproducible local development, CI/CD, and scalable cloud deployment
 
 ### 💻 [Functional Core Compiler](https://github.com/JoePortas05/Functional-Core-Compiler) *(Mar 2025 – Mar 2025)*
 
-- Implemented a compiler for an extended functional programming language in Racket, translating parsed AST expressions into executable closures with support for lexical scoping, first-class functions, conditionals, recursion, mutation, and multi-expression function bodies.
-- Optimized compiled execution by resolving variable bindings at compile time using de Bruijn-style environment indexes and global binding inlining, reducing repeated runtime environment traversal and identifier lookup.
-- Extended the language runtime with mutable variable storage, by-reference function calls, recursive definitions, error handling, and semantic tests on closures, mutation, recursion, shadowing, and invalid programs.
+- Implemented a compiler for an extended functional programming language in Racket, translating parsed AST expressions into executable closures with support for lexical scoping, first-class functions, conditionals, recursion, mutation, and multi-expression function bodies
+- Optimized compiled execution by resolving variable bindings at compile time using de Bruijn-style environment indexes and global binding inlining, reducing repeated runtime environment traversal and identifier lookup
+- Extended the language runtime with mutable variable storage, by-reference function calls, recursive definitions, error handling, and semantic tests on closures, mutation, recursion, shadowing, and invalid programs
+
+### 📊 [Breast Cancer Classification Experiment Framework](https://github.com/JoePortas05/Breast_Cancer_Classification_Experiment_Runner) *(Apr 2026 – Apr 2026)*
+
+- Built a reusable machine-learning experimentation framework in Python to run controlled comparisons across classifiers, preprocessing choices, feature-selection methods, and hyperparameters, enabling consistent evaluation of dozens of model configurations from one pipeline
+- Designed modular components for data preprocessing, feature selection, model creation, evaluation, and result summarization, making the system easy to extend with new models, metrics, and experiment settings without rewriting core training logic
+- Implemented custom scikit-learn-compatible versions of Logistic Regression, Ridge Logistic Regression, Gaussian Naive Bayes, and k-NN, then benchmarked them against library baselines using 5-fold stratified cross-validation, ROC-AUC, accuracy, precision, recall, F1, and confusion-matrix metrics
 
 ### 📂 File System *(Nov 2024 – Dec 2024)*
 
-- Built a FUSE-based file system in C supporting create, read, write, delete, rename, mkdir, and rmdir operations.
-- Implemented block allocation, inode metadata, directory traversal, and disk-space management to support reliable storage up to 500 KB per file.
-- Tested command-line behavior and edge cases, improving correctness across path handling, file updates, and storage limits.
-
+- Built a FUSE-based file system in C supporting create, read, write, delete, rename, mkdir, and rmdir operations
+- Implemented block allocation, inode metadata, directory traversal, and disk-space management to support reliable storage up to 500 KB per file
+- Tested command-line behavior and edge cases, improving correctness across path handling, file updates, and storage limits
 ---
 
 ## 🔗 Let's Connect!
