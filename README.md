@@ -18,7 +18,7 @@ I love combining creativity and technical skill to solve challenging problems wi
 
 ---
 
-## 📂 Projects
+## 📂 Project Highlights
 
 Some projects are housed in organization repositories or private academic repositories. Code is available upon request when permitted.
 
@@ -47,12 +47,6 @@ Some projects are housed in organization repositories or private academic reposi
 * Implemented a compiler for an extended functional programming language in Racket, translating parsed AST expressions into executable closures with lexical scoping, first-class functions, conditionals, recursion, mutation, and multi-expression function bodies
 * Optimized execution by resolving variable bindings at compile time using de Bruijn-style environment indexes and global-binding inlining, reducing repeated runtime environment traversal
 * Extended the runtime with mutable storage, by-reference function calls, recursive definitions, error handling, and semantic tests covering closures, mutation, recursion, shadowing, and invalid programs
-
-### 📂 File System *(Nov 2024 – Dec 2024)*
-
-* Built a FUSE-based file system in C supporting create, read, write, delete, rename, `mkdir`, and `rmdir` operations
-* Implemented block allocation, inode metadata, directory traversal, and disk-space management to support reliable storage of files up to 500 KB
-* Tested command-line behavior and edge cases, improving correctness across path handling, file updates, and storage limits
 
 ---
 
