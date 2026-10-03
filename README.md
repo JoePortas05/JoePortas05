@@ -54,5 +54,5 @@ Some projects are housed in organization repositories or private academic reposi
 
 I'm open to opportunities in software engineering, research engineering, AI evaluation, and technical AI safety.
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://linkedin.com/in/joseph-portas/)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge\&logo=gmail\&logoColor=white)](mailto:joeportas05@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/joseph-portas/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-234D63?style=for-the-badge&logo=googlechrome&logoColor=white)](https://josephportas.com/)
